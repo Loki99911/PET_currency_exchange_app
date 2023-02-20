@@ -154,7 +154,6 @@ const AmountForm = () => {
                     <b>{el}</b>
                     <p>{Math.floor(exchengeCourse[el] * amount * 100) / 100}</p>
                   </AmountBlock>
-
                   <p>{symbols[el]}</p>
                 </CurrencyItem>
               ))}
