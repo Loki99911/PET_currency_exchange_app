@@ -89,6 +89,10 @@ export const CurrencyItem = styled.li`
   border: 1px solid black;
   border-bottom-left-radius: 5px;
   border-top-right-radius: 5px;
+  background-color: #bfc0bf;
+  :nth-child(even) {
+    background-color: #919191;
+  }
 `;
 export const AmountBlock = styled.div`
 display:flex;
