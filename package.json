@@ -1,8 +1,8 @@
 {
-  "name": "abz_agency_test",
+  "name": "currency_exchange_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://loki99911.github.io/ABZ.agency_TEST/",
+  "homepage": "https://loki99911.github.io/currency_exchange_app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
