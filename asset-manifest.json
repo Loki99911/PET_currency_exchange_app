@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/currency_exchange_app/static/css/main.52d19624.css",
-    "main.js": "/currency_exchange_app/static/js/main.da93e4eb.js",
-    "static/media/logo.svg": "/currency_exchange_app/static/media/logo.a1bb7baf66af5f417bcbafe7f64a7be7.svg",
-    "index.html": "/currency_exchange_app/index.html",
-    "main.52d19624.css.map": "/currency_exchange_app/static/css/main.52d19624.css.map",
-    "main.da93e4eb.js.map": "/currency_exchange_app/static/js/main.da93e4eb.js.map"
+    "main.css": "/PET_currency_exchange_app/static/css/main.52d19624.css",
+    "main.js": "/PET_currency_exchange_app/static/js/main.c640fee7.js",
+    "static/media/logo.svg": "/PET_currency_exchange_app/static/media/logo.a1bb7baf66af5f417bcbafe7f64a7be7.svg",
+    "index.html": "/PET_currency_exchange_app/index.html",
+    "main.52d19624.css.map": "/PET_currency_exchange_app/static/css/main.52d19624.css.map",
+    "main.c640fee7.js.map": "/PET_currency_exchange_app/static/js/main.c640fee7.js.map"
   },
   "entrypoints": [
     "static/css/main.52d19624.css",
-    "static/js/main.da93e4eb.js"
+    "static/js/main.c640fee7.js"
   ]
 }
