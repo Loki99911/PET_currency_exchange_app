@@ -30,6 +30,9 @@ const AmountForm = () => {
   const [symbols, setSymbols] = useState(null);
   const [exchengeCourse, setExchengeCourse] = useState({});
 
+   const oneYearAgo = new Date();
+   oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+
   useEffect(() => {
     getSymbols().then(response => setSymbols(response.symbols));
   }, []);
@@ -52,6 +55,8 @@ const AmountForm = () => {
           <DatePicker
             selected={startDate}
             onChange={date => setStartDate(date)}
+            minDate={oneYearAgo}
+            maxDate={new Date()}
           />
           <FormLayout>
             <Formik
